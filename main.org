@@ -1,0 +1,34 @@
+* Olá eu sou /Erik Gabriel/
+    Numero: +531 913 115 447
+    Email: Eriklustosa@gmail.com
+    Endereço: Rua Nova da Estação, 158, Maximinos - Braga
+
+** Sobre mim
+    Olá! Eu sou Erik, tenho 19 anos, sou programador Júnior recém chegado do Brasil, sou autodidata, tenho habilidades em diversas linguagens de programação como C/C++, Python, Javascript, e diversos outros, além de experiência com computação gráfica, sou apaixonado por aprender e estou sempre procurando desafios para expandir minhas habilidades. Meu objetivo é adquirir experiência e contribuir para o sucesso da equipe em que trabalharei.
+
+** Habilidades
+    1. Conhecimento em diversas linguagens de programação como: Python, C, C++, Rust, Dart, Javascript, Zig, Lisp, Forth, 6502 assembly, Lua, etc...
+    2. Familiaridade com desenvolvimento web, incluíndo HTML, CSS, JavaScript.
+    3. Conhecimento de Git.
+    4. Familiaridade com alguns métodos ágeis de desenvolvimento, como Scrum e Kanban.
+    5. /Still learning English/ - I consider myself at B2 level of CEFR
+
+** Formação acadêmica
+    - Colégio/Faculdade Projeção Brasil - Ensino Médio /completo/
+
+** Projetos
+    1. Um renderizador 3D de wireframe feito em lua usando o framework Löve2D
+       - Aprendi sobre calculos complexos como Matizes de rotação e projeção de perspectiva
+       - <img>
+    2. Fiz um Jogo em Godot sobre speedrun e chaves:
+       - Aprendi sobre controles de jogos de plataforma, e sobre jogabilidade
+       - link: egcl.itch.io/sr-001/
+       - <img>
+    3. Meu primeiro jogo multiplayer
+       - é uma série de vídeos feitos por Filipe Deschamps,
+       - Segui os vídeos dele e aprendi sobre JavaScript e Node.js
+       - Aprendi sobre arquitetura de software
+       - <img>
+
+** Hobbies
+    - gosto de criar pequenos jogos e projetos para aprender novos conceitos na área da computação.
